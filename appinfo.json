@@ -4,7 +4,7 @@
         "configurable"
     ],
     "companyName": "emcniece@gmail.com",
-    "longName": "Hello Pebble",
+    "longName": "Hello Pebblee",
     "projectType": "pebblejs",
     "resources": {
         "media": [
@@ -37,7 +37,7 @@
         ]
     },
     "sdkVersion": "3",
-    "shortName": "Hello Pebble",
+    "shortName": "Hello Pebblee",
     "uuid": "13d197c3-fe0f-4662-bdad-81e7d0173dd7",
     "versionCode": 1,
     "versionLabel": "1.0",
