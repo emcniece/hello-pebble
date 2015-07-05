@@ -64,3 +64,9 @@ Pebble.addEventListener('showConfiguration', function(e) {
   // Show config page
   Pebble.openURL('http://emc2.build/pebble-config.html');
 });
+
+Pebble.addEventListener('webviewclosed',
+  function(e) {
+    console.log('Configuration window returned: ' + e.response);
+  }
+)
